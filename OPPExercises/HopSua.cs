@@ -19,6 +19,7 @@ namespace OPPExercises
         {
             var z = 100;
             var a = 1000;
+            var v = "ad";
 
             return 0;
 
