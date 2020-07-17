@@ -17,7 +17,7 @@ namespace OPPExercises
         }
         public int TinhSoGocNhon()
         {
-            var a = 100;
+            var z = 100;
             return 0;
 
         }
