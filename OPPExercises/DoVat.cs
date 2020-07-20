@@ -10,7 +10,11 @@ namespace OPPExercises
         public abstract double TinhDientich();
         public int TinhSoGocNhon()
         {
+
+            var a = 7;
+
             var s = "";
+
             return 0;
         }
     }
