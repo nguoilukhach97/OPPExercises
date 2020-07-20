@@ -6,6 +6,7 @@ namespace OPPExercises
 {
     public class HopSua : DoVat
     {
+        
         public override void Report()
         {
             Console.WriteLine("I'm a milk box");
@@ -17,8 +18,7 @@ namespace OPPExercises
         }
         public int TinhSoGocNhon()
         {
-            var a = 100;
-            var r = 123123;
+            
             return 0;
 
         }
